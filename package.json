@@ -1,0 +1,22 @@
+{
+  "name": "odo-statistics",
+  "version": "1.0.0",
+  "description": "Simple statistics",
+  "main": "statistics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odojs/odo-statistics.git"
+  },
+  "keywords": [
+    "statistics"
+  ],
+  "author": "Thomas Coats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/odo-statistics/issues"
+  },
+  "homepage": "https://github.com/odojs/odo-statistics"
+}
